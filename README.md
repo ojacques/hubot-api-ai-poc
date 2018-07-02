@@ -1,4 +1,4 @@
-# Conversational UX for Hubit with API.AI
+# Conversational UX for Hubot with API.AI
 
 This hubot script adds conversational user experience with API.AI as
 back-end.
